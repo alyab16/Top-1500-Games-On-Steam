@@ -6,11 +6,7 @@ A predictive analysis project exploring factors influencing game prices on Steam
 ## Table of Contents
 - [Dataset](#dataset)
 - [Analysis Overview](#analysis-overview)
-- [Key Findings](#key-findings)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [License](#license)
 
 ## Dataset
 **Source:** [Kaggle - Top 1500 Games on Steam by Revenue](https://www.kaggle.com/datasets/alicemtopcu/top-1500-games-on-steam-by-revenue-09-09-2024)  
