@@ -1,5 +1,5 @@
 # Top-1500-Games-On-Steam
-![Steam Logo](https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="50" height="50">
 
 A predictive analysis project exploring factors influencing game prices on Steam using regression models.
 
