@@ -42,4 +42,4 @@ A predictive analysis project exploring factors influencing game prices on Steam
 ## Installation
 ```bash
 # Required libraries
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+pip install pandas numpy scikit-learn matplotlib seaborn
